@@ -1,5 +1,5 @@
 ###  SELECTORES BASICOS  (PRACTICA3 formatotexto),  INGRESA AL LINK DE LA PARTE DE ABAJO PARA OBSERVAR 
-[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/Css-pracita-cascada/)
+[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/formatoTexto/)
 ___
 
 ### 1 Parte del codigo en imagenes 
